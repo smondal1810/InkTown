@@ -77,7 +77,7 @@ function Footer() {
                         <a
                             href='#'
                             className='hover:underline'>
-                            RakeshGhosh
+                            Sunit Subha Sangram
                         </a>
                         . All Rights Reserved.
                     </span>
