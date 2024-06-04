@@ -1,0 +1,12 @@
+{
+	"rewrites": [
+		{
+			"source": "/api/:path*",
+			"destination": "http://3.114.169.2:8080/inktown/:path*"
+		},
+		{
+			"source": "/(.*)",
+			"destination": "/index.html"
+		}
+	]
+}
